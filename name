@@ -1,0 +1,29 @@
+* [33mcommit fe0f5872f6fe76987ef62a1f43b0e87d09711e9b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/feature/task-completion[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[31m|[m Author: Ezzaldeen.Esmail <ezzsoftware.30@gmail.com>
+[31m|[m Date:   Mon Sep 14 17:00:46 2026 +0300
+[31m|[m 
+[31m|[m     add altert.js file to the project
+[31m|[m 
+* [33mcommit 7f6a2c923a87a88b4cb4c8415ca36d6b26d16f92[m
+[31m|[m Author: Ezzaldeen.Esmail <ezzsoftware.30@gmail.com>
+[31m|[m Date:   Mon Sep 14 00:47:28 2026 +0300
+[31m|[m 
+[31m|[m     chore: add environment config
+[31m|[m 
+* [33mcommit 538f9f04bcf36211eaae80b217390593a316ca16[m
+[31m|[m Author: Ezzaldeen.Esmail <ezzsoftware.30@gmail.com>
+[31m|[m Date:   Mon Sep 14 00:46:36 2026 +0300
+[31m|[m 
+[31m|[m     feat: add task model file
+[31m|[m 
+* [33mcommit 79d0061ff7d821aa854823ea180e1f7c169cf8db[m
+[31m|[m Author: Ezzaldeen.Esmail <ezzsoftware.30@gmail.com>
+[31m|[m Date:   Mon Sep 14 00:44:35 2026 +0300
+[31m|[m 
+[31m|[m     feat: add initial server entry point
+[31m|[m 
+* [33mcommit aead1e07370d9ec85f09632a9e5ed2c169098eea[m
+  Author: Ezzaldeen.Esmail <ezzsoftware.30@gmail.com>
+  Date:   Mon Sep 14 00:05:14 2026 +0300
+  
+      feat: add assign new task for spesific student

@@ -1,1 +1,1 @@
-alert('hello world, in the first merge lesson');
+alert('in the first merge lesson');
